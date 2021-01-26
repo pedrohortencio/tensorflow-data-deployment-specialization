@@ -1,0 +1,1 @@
+The files here are mainly from [Laurence Moroney's repository](https://github.com/lmoroney/dlaicourse/tree/master/TensorFlow%20Deployment/Course%201%20-%20TensorFlow-JS). The changes are in the assignment/exercise files.
